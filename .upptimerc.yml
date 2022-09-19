@@ -137,15 +137,13 @@ status-website:
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-97T3SSH4DV');"
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /Ro-Status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  introTitle: "**Ro-Status is a free, automated alternative to Status+."
-  introMessage: This uses real-time information from roblox's API endpoints to determine if there is any slowness/outages. This can detect outages faster than Roblox's status site as this is automated. It can also be used inside Roblox games. This part of Status + is called DowntimeService.
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   css:   "
    
    :root { --body-background-color: #f0f7f7; --body-text-color: #002626; --card-background-color: #ffffff; --nav-background-color: #ffffff; --nav-border-bottom-color: #d8e8e4; --nav-border-bottom-color: #d8e8e4; --nav-current-border-bottom-color: #1abc9c; --card-border-color: #d8e8e4; --down-border-left-color: #eb3b5a; --down-background-color: #ffd0d2; --degraded-border-left-color: #f7b731; --up-border-left-color: #20bf6b; --tag-color: #ffffff; --tag-up-background-color: #20bf6b; --tag-down-background-color: #eb3b5a; --tag-degraded-background-color: #f7b731; --change-background-color: #f7b731; --error-button-border-color: #1a46ad; --error-button-background-color: #3867d6; --error-button-color: #ffffff; --submit-button-border-color: #1a46ad; --submit-button-background-color: #3867d6; --submit-button-color: #ffffff; --graph-opacity: 1; --graph-filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%)}
