@@ -169,7 +169,7 @@ workflowSchedule:
   uptime: "*/10 * * * *"
 
 i18n:
-  footer: "Repository: "[Ro-Status](https://github.com/FearedFusionX/Ro-Status), 🔌  Maintained by [Upptime.](https://github.com/upptime/upptime)
+  footer: Repository from [Ro-Status](https://github.com/FearedFusionX/Ro-Status), 🔌  Maintained by [Upptime.](https://github.com/upptime/upptime)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
