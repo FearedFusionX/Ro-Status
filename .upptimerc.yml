@@ -144,7 +144,7 @@ status-website:
     - title: GitHub
       href: https://fearedfusionx.github.io/Ro-Status
   introTitle: "**Ro-Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is not the offical Roblox Status nor the offical Status + Page. Our status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). The Status Page can be used with BDFD.
+  introMessage: This is not the offical Roblox Status nor the offical Status + Page. Our status page uses **real-time** data from the Upptime [GitHub repository](https://github.com/upptime/upptime). The Status Page can be used with BDFD.
   css:   "
    
    :root { --body-background-color: #f0f7f7; --body-text-color: #002626; --card-background-color: #ffffff; --nav-background-color: #ffffff; --nav-border-bottom-color: #d8e8e4; --nav-border-bottom-color: #d8e8e4; --nav-current-border-bottom-color: #1abc9c; --card-border-color: #d8e8e4; --down-border-left-color: #eb3b5a; --down-background-color: #ffd0d2; --degraded-border-left-color: #f7b731; --up-border-left-color: #20bf6b; --tag-color: #ffffff; --tag-up-background-color: #20bf6b; --tag-down-background-color: #eb3b5a; --tag-degraded-background-color: #f7b731; --change-background-color: #f7b731; --error-button-border-color: #1a46ad; --error-button-background-color: #3867d6; --error-button-color: #ffffff; --submit-button-border-color: #1a46ad; --submit-button-background-color: #3867d6; --submit-button-color: #ffffff; --graph-opacity: 1; --graph-filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%)}
