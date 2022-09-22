@@ -131,18 +131,18 @@
     "icon": "https://favicons.githubusercontent.com/auth.roblox.com",
     "slug": "auth-api-endpoint",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 200,
     "timeDay": 375,
     "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2022-09-22": 0
+      "2022-09-22": 6
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-09-22": 1276,
+      "2022-09-22": 1283,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 126
@@ -257,7 +257,7 @@
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-09-22": 1277,
+      "2022-09-22": 1283,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 126
@@ -287,18 +287,18 @@
     "icon": "https://favicons.githubusercontent.com/friends.roblox.com",
     "slug": "friends-api-endpoint",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 101,
     "timeDay": 100,
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-09-22": 0
+      "2022-09-22": 6
     }
   },
   {
@@ -390,7 +390,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-09-22": 1277,
+      "2022-09-22": 1283,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 126
