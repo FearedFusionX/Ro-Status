@@ -196,7 +196,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-09-24": 989,
+      "2022-09-24": 995,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
@@ -257,7 +257,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2022-09-24": 989,
+      "2022-09-24": 995,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
@@ -392,7 +392,7 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-09-24": 989,
+      "2022-09-24": 995,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
@@ -406,18 +406,18 @@
     "icon": "https://favicons.githubusercontent.com/thumbnails.roblox.com",
     "slug": "thumbnails-api-endpoint",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.70%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
     "time": 283,
     "timeDay": 770,
     "timeWeek": 283,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-09-24": 83
+      "2022-09-24": 89
     }
   },
   {
