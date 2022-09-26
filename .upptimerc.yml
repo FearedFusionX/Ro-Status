@@ -48,15 +48,9 @@ sites:
     maxResponseTime: 1000
 
   - name: Billing API Endpoint
-
     url: https://billing.roblox.com
     method: GET
     maxResponseTime: 1000    
-
-  - name: CDN API Endpoint
-    url: http://cdnproviders.roblox.com/
-    method: GET
-    maxResponseTime: 1000   
 
   - name: Catalog API Endpoint
     url: https://catalog.roblox.com/v1/bundles/details?bundleIds=192
@@ -82,6 +76,11 @@ sites:
 # this is a hack OMG
   - name: Friends API Endpoint
     url: https://friends.roblox.com/v1/metadata
+    method: GET
+    maxResponseTime: 1000
+    
+    - name: Presence API
+    url: https://presence.roblox.com
     method: GET
     maxResponseTime: 1000
 
@@ -119,6 +118,11 @@ sites:
 
   - name: Users API Endpoint
     url: https://users.roblox.com/
+    method: GET
+    maxResponseTime: 1000
+    
+    - name: Voice Chat API
+    url: https://voice.roblox.com/
     method: GET
     maxResponseTime: 1000
 
