@@ -79,7 +79,7 @@ sites:
     method: GET
     maxResponseTime: 1000
     
-    - name: Presence API
+  - name: Presence API
     url: https://presence.roblox.com
     method: GET
     maxResponseTime: 1000
@@ -121,7 +121,7 @@ sites:
     method: GET
     maxResponseTime: 1000
     
-    - name: Voice Chat API
+  - name: Voice Chat API
     url: https://voice.roblox.com/
     method: GET
     maxResponseTime: 1000
