@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 199,
-    "timeWeek": 210,
+    "timeWeek": 209,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {}
@@ -198,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 119,
-    "timeWeek": 124,
+    "timeWeek": 125,
     "timeMonth": 134,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -227,11 +227,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.roblox.com.ico",
     "slug": "develop-api-endpoint",
     "status": "up",
-    "uptime": "81.84%",
+    "uptime": "81.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.84%",
+    "uptimeYear": "81.85%",
     "time": 168,
     "timeDay": 173,
     "timeWeek": 176,
@@ -319,7 +319,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 169,
-    "timeWeek": 165,
+    "timeWeek": 166,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -397,7 +397,7 @@
     "timeMonth": 110,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-10-28": 898,
+      "2022-10-28": 924,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
@@ -452,7 +452,7 @@
     "uptimeYear": "99.66%",
     "time": 156,
     "timeDay": 391,
-    "timeWeek": 176,
+    "timeWeek": 177,
     "timeMonth": 136,
     "timeYear": 156,
     "dailyMinutesDown": {
