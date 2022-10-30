@@ -83,19 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountsettings.roblox.com.ico",
     "slug": "account-settings-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 129,
     "timeWeek": 115,
     "timeMonth": 121,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2022-10-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Asset Delivery",
@@ -229,11 +227,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.roblox.com.ico",
     "slug": "develop-api-endpoint",
     "status": "up",
-    "uptime": "82.78%",
+    "uptime": "82.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.78%",
+    "uptimeYear": "82.79%",
     "time": 167,
     "timeDay": 162,
     "timeWeek": 172,
@@ -399,7 +397,7 @@
     "timeMonth": 175,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-10-30": 1060,
+      "2022-10-30": 1064,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
