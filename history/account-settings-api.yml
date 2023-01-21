@@ -1,7 +1,7 @@
 url: https://accountsettings.roblox.com
-status: degraded
-code: 503
-responseTime: 1532
-lastUpdated: 2023-01-21T18:52:10.058Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2023-01-21T19:09:24.388Z
 startTime: Mon Sep 19 2022 21:53:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
