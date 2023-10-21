@@ -1,7 +1,7 @@
 url: https://friends.roblox.com/v1/metadata
-status: down
+status: degraded
 code: 500
-responseTime: 574
-lastUpdated: 2023-10-21T15:40:41.774Z
+responseTime: 2108
+lastUpdated: 2023-10-21T15:44:40.536Z
 startTime: 2022-09-19T21:53:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
