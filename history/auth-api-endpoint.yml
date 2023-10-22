@@ -1,7 +1,7 @@
 url: https://auth.roblox.com
-status: degraded
-code: 503
-responseTime: 3604
-lastUpdated: 2023-10-22T01:39:35.164Z
+status: up
+code: 200
+responseTime: 652
+lastUpdated: 2023-10-22T02:33:44.388Z
 startTime: 2022-09-19T21:53:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
