@@ -1,7 +1,7 @@
 url: https://developer.roblox.com
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2023-11-13T18:52:31.070Z
+status: degraded
+code: 503
+responseTime: 4930
+lastUpdated: 2023-11-13T19:13:12.417Z
 startTime: 2022-09-19T21:53:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
