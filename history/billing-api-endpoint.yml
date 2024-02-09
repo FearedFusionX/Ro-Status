@@ -1,7 +1,7 @@
 url: https://billing.roblox.com
-status: degraded
+status: up
 code: 200
-responseTime: 11069
-lastUpdated: 2024-02-09T15:35:51.230Z
+responseTime: 722
+lastUpdated: 2024-02-09T15:41:39.801Z
 startTime: 2022-09-19T21:53:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
