@@ -1,7 +1,7 @@
 url: https://inventory.roblox.com/v1/users/82738847/assets/collectibles?limit=10&sortOrder=Asc
-status: down
-code: 503
-responseTime: 189
-lastUpdated: 2024-10-14T16:49:16.528Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2024-10-14T16:58:03.547Z
 startTime: 2022-09-19T21:53:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
