@@ -1,7 +1,7 @@
 url: https://devforum.roblox.com
-status: degraded
-code: 502
-responseTime: 23136
-lastUpdated: 2024-10-17T16:50:34.241Z
+status: down
+code: 500
+responseTime: 534
+lastUpdated: 2024-10-17T16:58:47.389Z
 startTime: 2022-09-19T21:53:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
