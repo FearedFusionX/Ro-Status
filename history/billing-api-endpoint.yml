@@ -1,7 +1,7 @@
 url: https://billing.roblox.com
-status: down
+status: degraded
 code: 404
-responseTime: 268
-lastUpdated: 2025-05-18T16:21:18.918Z
+responseTime: 1261
+lastUpdated: 2025-05-18T16:30:32.391Z
 startTime: 2022-09-19T21:53:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
