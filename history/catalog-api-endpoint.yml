@@ -1,7 +1,7 @@
 url: https://catalog.roblox.com/v1/bundles/details?bundleIds=192
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-27T06:54:35.005Z
+status: up
+code: 200
+responseTime: 125
+lastUpdated: 2025-09-27T06:56:48.481Z
 startTime: 2022-09-19T21:53:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
