@@ -1,7 +1,7 @@
 url: https://auth.roblox.com
-status: down
+status: degraded
 code: 404
-responseTime: 131
-lastUpdated: 2025-12-19T07:25:02.897Z
+responseTime: 6459
+lastUpdated: 2025-12-19T07:38:35.372Z
 startTime: 2022-09-19T21:53:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
