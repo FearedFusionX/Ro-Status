@@ -142,7 +142,7 @@
     "timeDay": 453,
     "timeWeek": 443,
     "timeMonth": 439,
-    "timeYear": 500,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-09-01": 7,
       "2025-10-31": 6,
@@ -170,7 +170,7 @@
     "uptimeYear": "99.20%",
     "time": 339,
     "timeDay": 294,
-    "timeWeek": 305,
+    "timeWeek": 309,
     "timeMonth": 295,
     "timeYear": 339,
     "dailyMinutesDown": {
@@ -206,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountinformation.roblox.com.ico",
     "slug": "account-information-api",
     "status": "down",
-    "uptime": "51.58%",
+    "uptime": "51.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 140,
     "timeDay": 72,
-    "timeWeek": 85,
+    "timeWeek": 87,
     "timeMonth": 82,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-08-08": 1430,
+      "2026-08-09": 148,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -580,8 +581,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -590,14 +590,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountsettings.roblox.com.ico",
     "slug": "account-settings-api",
     "status": "up",
-    "uptime": "55.63%",
+    "uptime": "55.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.83%",
+    "uptimeYear": "14.86%",
     "time": 135,
     "timeDay": 117,
-    "timeWeek": 112,
+    "timeWeek": 114,
     "timeMonth": 113,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -910,8 +910,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -927,11 +926,11 @@
     "uptimeYear": "0.00%",
     "time": 130,
     "timeDay": 63,
-    "timeWeek": 71,
+    "timeWeek": 72,
     "timeMonth": 76,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-08-09": 4,
+      "2026-08-09": 163,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -1361,7 +1360,7 @@
     "timeMonth": 105,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-08-09": 18,
+      "2026-08-09": 177,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -1738,7 +1737,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.49%",
+    "uptimeYear": "86.52%",
     "time": 179,
     "timeDay": 187,
     "timeWeek": 172,
@@ -1815,7 +1814,7 @@
     "timeMonth": 73,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-08-09": 32,
+      "2026-08-09": 191,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -2241,7 +2240,7 @@
     "timeMonth": 74,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2026-08-09": 45,
+      "2026-08-09": 205,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -2625,7 +2624,7 @@
     "timeMonth": 130,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2026-08-09": 52,
+      "2026-08-09": 212,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -3009,7 +3008,7 @@
     "timeMonth": 76,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2026-08-09": 58,
+      "2026-08-09": 219,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -3427,7 +3426,7 @@
     "timeMonth": 77,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2026-08-09": 73,
+      "2026-08-09": 233,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -3811,7 +3810,7 @@
     "timeMonth": 127,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-08-09": 79,
+      "2026-08-09": 240,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -4195,7 +4194,7 @@
     "timeMonth": 74,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2026-08-09": 86,
+      "2026-08-09": 246,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -4697,11 +4696,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/users.roblox.com.ico",
     "slug": "users-api-endpoint",
     "status": "up",
-    "uptime": "56.80%",
+    "uptime": "56.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.85%",
+    "uptimeYear": "14.88%",
     "time": 106,
     "timeDay": 75,
     "timeWeek": 90,
@@ -5119,7 +5118,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2026-08-09": 120,
+      "2026-08-09": 280,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
